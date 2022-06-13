@@ -1,3 +1,2 @@
 # MemberDicoding
-Tugas Program Input Member - Dicoding Academy
-Menerapkan OOP pada Swift
+Tugas Program Input Member - Dicoding Academy Menerapkan OOP pada Swift
